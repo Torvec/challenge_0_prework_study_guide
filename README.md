@@ -4,6 +4,8 @@
 
 This study guide's purpose was created in order to have a centralized location for notes on the basics of HTML, CSS, Git, and JavaScript, and to get basic experience in the web development process.
 
+Visit the GitHub pages link to see website: [Pre-Work Study Guide](https://torvec.github.io/challenge_0_prework_study_guide/)
+
 ## Installation
 
 N/A
