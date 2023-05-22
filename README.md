@@ -6,6 +6,10 @@ This study guide's purpose was created in order to have a centralized location f
 
 Visit the GitHub pages link to see website: [Pre-Work Study Guide](https://torvec.github.io/challenge_0_prework_study_guide/)
 
+## Visuals
+
+![Site Screenshot](./assets/img/preworkStudyGuide.png)
+
 ## Installation
 
 N/A
@@ -16,11 +20,12 @@ This page can be used for studying purposes and has important notes for HTML, CS
 
 ## Credits
 
-N/A
+- UC Berkley Extension 
+- Edward Von Schondorf
 
 ## License
 
-Please refer to the LICENSE in the repo.
+N/A
 
 ## Badges
 
@@ -28,12 +33,13 @@ N/A
 
 ## Features
 
-N/A
+- Study notes on various web development topics
 
 ## How to Contribute
 
 N/A
 
-## Tests
+## Project Status
 
-N/A
+Continuously Updated
+Last Update: 22 May 2023
