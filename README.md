@@ -7,7 +7,7 @@ This study guide's purpose was created in order to have a centralized location f
 
 ## GitHub Pages
 
-Visit the GitHub pages link to see website: [Pre-Work Study Guide](https://torvec.github.io/challenge_0_prework_study_guide/)
+Visit the GitHub pages link to see website: [Pre-Work Study Guide](https://torvec.github.io/m0_prework_study_guide/)
 
 ## Visuals
 
